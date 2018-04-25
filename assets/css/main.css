@@ -1897,6 +1897,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #fff;
 }
 
+#icons {
+  background: #0b0b0b;
+  text-align: center;
+}
+
 #copyright {
   background: #0b0b0b;
   text-align: center;
